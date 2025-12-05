@@ -1,0 +1,168 @@
+id,comment,label
+1,"Amazing work! The animation looks stunning.",Praise
+2,"Loved the colours you used, feels so fresh!",Praise
+3,"This is one of your best posts yet!",Praise
+4,"Absolutely beautiful! Keep posting more.",Praise
+5,"Wow, top-notch quality!",Praise
+6,"Super impressive creativity!",Praise
+7,"Incredible editing skills!",Praise
+8,"You nailed this one, great job!",Praise
+9,"Very well done, I’m amazed!",Praise
+10,"This looks brilliant!",Praise
+11,"Fantastic effort, looks amazing!",Praise
+12,"This came out so well!",Praise
+13,"Your work keeps getting better!",Praise
+14,"The final output is just perfect!",Praise
+15,"This deserves more attention!",Praise
+16,"Love this design, great choice!",Praise
+17,"Wow! This is so professional!",Praise
+18,"Such a crisp and clean animation!",Praise
+19,"One of the best things I’ve seen today!",Praise
+20,"Beautiful execution, well done!",Praise
+
+21,"Keep going, you’re improving every day!",Support
+22,"Don’t stop! Your content keeps inspiring.",Support
+23,"We’re rooting for you!",Support
+24,"You’re doing great, keep pushing!",Support
+25,"Don’t give up, this looks promising!",Support
+26,"We believe in you, keep creating!",Support
+27,"Your efforts are showing, continue!",Support
+28,"Stay consistent, you’ll do wonders.",Support
+29,"Great progress, keep it up!",Support
+30,"Your journey is inspiring!",Support
+31,"Sending lots of support your way!",Support
+32,"Keep shining, you’ve got this!",Support
+33,"Good luck with your next post!",Support
+34,"We appreciate your hard work!",Support
+35,"You’re definitely on the right path.",Support
+36,"Keep experimenting, you’re improving!",Support
+37,"Looking forward to more from you!",Support
+38,"We’re excited to see what you create next!",Support
+39,"Stay motivated, your skills are growing!",Support
+40,"You got this, keep going!",Support
+
+41,"The animation is okay but feels a bit slow at some parts.",Constructive Criticism
+42,"Nice attempt, but the background music doesn’t match the vibe.",Constructive Criticism
+43,"Good work, although some transitions look rushed.",Constructive Criticism
+44,"The voiceover was slightly unclear, maybe improve the audio.",Constructive Criticism
+45,"I like the design, but the color scheme could be improved.",Constructive Criticism
+46,"Not bad, but the text feels too small to read.",Constructive Criticism
+47,"The pacing could be better; it feels uneven.",Constructive Criticism
+48,"The idea is great but execution needs polishing.",Constructive Criticism
+49,"This is good, but lighting looks inconsistent.",Constructive Criticism
+50,"Concept is strong but the ending is abrupt.",Constructive Criticism
+51,"Nice content, although the caption feels too long.",Constructive Criticism
+52,"Try adding more depth to the visuals; it’ll look richer.",Constructive Criticism
+53,"The audio balance feels off in some scenes.",Constructive Criticism
+54,"Great try, but the characters feel stiff.",Constructive Criticism
+55,"You could improve the timing of the animations.",Constructive Criticism
+56,"Maybe add smoother transitions to enhance the flow.",Constructive Criticism
+57,"The story is interesting but needs more clarity.",Constructive Criticism
+58,"Good work, though the frame rate drops sometimes.",Constructive Criticism
+59,"You’re close! Just refine the final touches.",Constructive Criticism
+60,"Strong concept, but visuals could be cleaner.",Constructive Criticism
+
+61,"This is trash, stop posting.",Hate/Abuse
+62,"You clearly have no talent.",Hate/Abuse
+63,"What a useless video.",Hate/Abuse
+64,"This is the worst thing I’ve seen today.",Hate/Abuse
+65,"Your content sucks.",Hate/Abuse
+66,"Why do you even try? You're terrible.",Hate/Abuse
+67,"This is garbage.",Hate/Abuse
+68,"Nobody wants to see this nonsense.",Hate/Abuse
+69,"Are you dumb? This makes no sense.",Hate/Abuse
+70,"Such an awful creation.",Hate/Abuse
+71,"Everything you post is cringe.",Hate/Abuse
+72,"Delete your account, you’re embarrassing.",Hate/Abuse
+73,"You’re the worst creator online.",Hate/Abuse
+74,"This is pathetic content.",Hate/Abuse
+75,"Your design skills are a joke.",Hate/Abuse
+76,"Biggest failure I’ve seen.",Hate/Abuse
+77,"Stop making trash like this.",Hate/Abuse
+78,"Embarrassing attempt, seriously.",Hate/Abuse
+79,"Your work is beyond horrible.",Hate/Abuse
+80,"Nobody cares about your posts.",Hate/Abuse
+
+81,"If you post something like this again, I will report your account.",Threat
+82,"I swear I’ll take legal action if this continues.",Threat
+83,"I’ll make sure your page gets taken down.",Threat
+84,"I’m warning you, stop or I’ll escalate.",Threat
+85,"I’ll block and report you immediately.",Threat
+86,"One more post like this and I’ll complain officially.",Threat
+87,"You’re violating rules, I’ll file a report soon.",Threat
+88,"I’ll ruin your page’s reputation if you keep doing this.",Threat
+89,"I’ll make you regret posting this.",Threat
+90,"Fix this or I’ll take strict action.",Threat
+91,"I’ll get authorities involved if needed.",Threat
+92,"I’m reporting this right now.",Threat
+93,"This violates guidelines, I will escalate.",Threat
+94,"Next time I see this, I’ll flag it.",Threat
+95,"I’m filing a complaint against you.",Threat
+96,"I’ll ensure your account doesn’t last long.",Threat
+97,"I’ll take action if this happens again.",Threat
+98,"Don’t force me to report you.",Threat
+99,"I’ll shut this page down myself.",Threat
+100,"This is unacceptable; I’ll take legal steps.",Threat
+
+101,"This reminded me of my childhood days.",Emotional
+102,"This made me feel nostalgic.",Emotional
+103,"I don’t know why, but this made me emotional.",Emotional
+104,"I felt so connected to this animation.",Emotional
+105,"This brings back so many memories.",Emotional
+106,"Made me tear up a bit.",Emotional
+107,"This hits differently today.",Emotional
+108,"Why am I crying over this?",Emotional
+109,"This touched my heart.",Emotional
+110,"Made me think about my past.",Emotional
+111,"This is so relatable, it hurts.",Emotional
+112,"Feels like something I went through.",Emotional
+113,"This stirred up old feelings.",Emotional
+114,"Such a comforting post.",Emotional
+115,"This made my day emotionally warm.",Emotional
+116,"Feeling overwhelmed after watching this.",Emotional
+117,"This healed a part of me.",Emotional
+118,"This gave me goosebumps.",Emotional
+119,"I felt calm and peaceful watching this.",Emotional
+120,"This speaks to my soul.",Emotional
+
+121,"Follow me for instant followers!",Irrelevant/Spam
+122,"Click the link to win free prizes!",Irrelevant/Spam
+123,"DM me for promo deals!",Irrelevant/Spam
+124,"Check out my page for giveaways!",Irrelevant/Spam
+125,"Buy cheap products at this link!",Irrelevant/Spam
+126,"Join our group chat now!",Irrelevant/Spam
+127,"Post this on 10 videos or bad luck!",Irrelevant/Spam
+128,"Visit my store for amazing offers!",Irrelevant/Spam
+129,"Subscribe to my channel for growth tips!",Irrelevant/Spam
+130,"Promo alert! Limited offer!",Irrelevant/Spam
+131,"Earn money fast using this trick!",Irrelevant/Spam
+132,"Not related but check my profile!",Irrelevant/Spam
+133,"Watch my latest reel!",Irrelevant/Spam
+134,"Click here to get more followers!",Irrelevant/Spam
+135,"Join our community server!",Irrelevant/Spam
+136,"Follow my backup account!",Irrelevant/Spam
+137,"Buy followers and likes instantly!",Irrelevant/Spam
+138,"Here’s a random link you should try!",Irrelevant/Spam
+139,"Let’s exchange follows!",Irrelevant/Spam
+140,"Promote your page with us!",Irrelevant/Spam
+
+141,"Can you make one about space exploration?",Question/Suggestion
+142,"Could you create a tutorial for beginners?",Question/Suggestion
+143,"Can you upload a behind-the-scenes video?",Question/Suggestion
+144,"Would you consider making a horror-themed edit?",Question/Suggestion
+145,"Can you explain how you animated this part?",Question/Suggestion
+146,"I’d love to see a version with darker colors.",Question/Suggestion
+147,"Can you make more videos like this?",Question/Suggestion
+148,"Do you take requests? I have an idea.",Question/Suggestion
+149,"Could you slow down the transition next time?",Question/Suggestion
+150,"Can you add subtitles?",Question/Suggestion
+151,"Do you plan to release a tutorial soon?",Question/Suggestion
+152,"Could you try a different art style?",Question/Suggestion
+153,"Will you make a part 2?",Question/Suggestion
+154,"May I suggest adding background music variety?",Question/Suggestion
+155,"Can you explain the story behind this?",Question/Suggestion
+156,"Could you make this in 4K resolution?",Question/Suggestion
+157,"Please try making one related to gaming.",Question/Suggestion
+158,"Would you consider collaborating with others?",Question/Suggestion
+159,"Any chance of a longer version?",Question/Suggestion
+160,"Could you add a time-lapse version?",Question/Suggestion
