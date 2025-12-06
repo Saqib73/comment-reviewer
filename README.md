@@ -51,10 +51,13 @@ Streamlit (web app)
 Plotly (visualizations)
 
 🚀 How to Use
-1. Install Dependencies
+1. Clone the Repository
+   https://github.com/Saqib73/comment-reviewer
+
+2. Install Dependencies
 pip install -r requirements.txt
 
-2. Train the Model
+3. Train the Model
 python train_model.py
 
 
@@ -66,7 +69,7 @@ vectorizer.pkl
 
 label_encoder.json
 
-3. Run the Web App
+4. Run the Web App
 streamlit run app.py
 
 
