@@ -55,10 +55,10 @@ Plotly (visualizations)
    https://github.com/Saqib73/comment-reviewer
 
 2. Install Dependencies
-pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Train the Model
-python train_model.py
+   python train_model.py
 
 
 This will generate:
